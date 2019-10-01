@@ -1,0 +1,74 @@
+/* Navbar */
+
+.navbar-custom {
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 3.5rem;
+    background-color: white;
+}
+
+.nav-link {
+    color: black;
+
+}
+
+/* jumbotron full screen */
+.jumbotron {
+    background-image: url("img/masthead.jpg");
+    background-size: cover;
+    /* vh = viewport height */
+    height: 100vh;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.jumbotron h1 {
+    padding-top: 25%;
+    font-size: 8rem;
+
+}
+
+.jumbotron p {
+    font-size: 4rem;
+}
+
+/* About */
+
+.about {
+    padding: 2rem;
+}
+
+.about h1 {
+    font-size: 1.5em;
+}
+
+#portrait {
+    border-radius: 50%;
+}
+
+/* Services */
+
+.section-heading {
+    padding-top: 5rem;
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 7.5em;
+}
+
+.section-subheading {
+    padding-bottom: 5rem;
+    font-size: 3em;
+    font-family: 'Big Shoulders Display', cursive;
+}
+
+#row-projects
+{
+    height: 30vh;
+    padding-top: 10%;
+    padding-left: 10%;
+    padding-bottom: 25%;
+}
+
+#contact
+{
+    background-color: #e6e6e6;
+    margin: 0; 
+    padding: 0;
